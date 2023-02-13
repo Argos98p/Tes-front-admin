@@ -1,0 +1,29 @@
+.home{
+    flex: 4;
+    padding: 1.5em;
+    min-height: 100vh;
+}
+.cards-container{
+    display: flex;
+    flex-direction: row;
+}
+.titulo{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(187, 186, 186);
+}
+.subtitulo{
+    color: #0f96f6;
+}
+.sectores{
+    margin-top: 1em;
+}
+.logo{
+    width: 50%;
+    display: block;
+    object-fit: contain;
+}
+
+.homeWidgets{
+    display: flex;
+}

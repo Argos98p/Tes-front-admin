@@ -1,0 +1,13 @@
+.main-layout-content{
+    flex:4 1;
+    
+    min-height: 100vh;
+    background-color: #fff;
+
+}
+
+.main-layout{
+    display: flex;
+    margin-top: 2.7em;
+    
+}
